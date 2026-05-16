@@ -95,12 +95,12 @@ dungeon-crawler/
 
 ##  Requisitos Cumplidos
 
-- [x] Lenguaje: C++17
-- [x] Mínimo 6 habitaciones conectadas con colisiones
-- [x] 2 tipos de enemigos con comportamiento de persecución
-- [x] Mapa visual en ASCII del entorno, jugador y enemigos
-- [x] Inventario de un solo espacio (recoger/soltar)
-- [x] Condiciones claras de victoria y derrota
-- [x] Código modular en archivos `.h` y `.cpp` con uso de punteros
-- [x] Compilación mediante CMake
-- [x] Arreglos estáticos de entidades (sin `new`/`delete` en el game-loop)
+ Lenguaje: C++17
+ Mínimo 6 habitaciones conectadas con colisiones
+ 2 tipos de enemigos con comportamiento de persecución
+ Mapa visual en ASCII del entorno, jugador y enemigos
+ Inventario de un solo espacio (recoger/soltar)
+ Condiciones claras de victoria y derrota
+ Código modular en archivos `.h` y `.cpp` con uso de punteros
+ Compilación mediante CMake
+ Arreglos estáticos de entidades (sin `new`/`delete` en el game-loop)
